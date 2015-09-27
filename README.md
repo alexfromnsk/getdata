@@ -1,4 +1,3 @@
-# getdata
 Getting and Cleaning Data Coursera Course
 
 run_analysis.R performs the tasks needed by our lectures:
